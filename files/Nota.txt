@@ -1,1 +1,3 @@
-Aqui van a ir mis notas respecto al proyecto
+Primero que nada
+La rama main sera donde se encuentre publicada la pagina de Git, osea la que podran ver desde donde sera
+La rama calis sera donde yo ire subiendo actualizaciones para poder mantener respaldos, y un control de versiones temporal, una vez termine y sea funcinoal lo subire al main
